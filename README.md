@@ -1,5 +1,4 @@
-# data-project_2
-Data projects-PhonePe
+
 # PhonePe pulse data visualization and exploration- Problem Statement
 The Phonepe pulse Github repository contains data related to various metrics and statistics. The goal is to extract this data and process it to obtain insights and information that can be visualized in a user-friendly manner.
 
